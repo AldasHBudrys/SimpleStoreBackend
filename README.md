@@ -13,7 +13,7 @@ A simple Java application that simulates browsing a store. This project is built
 
 ## Requirements
 
-- Java Development Kit (JDK) 8 or higher
+- Java Development Kit (JDK) 17 or higher
 - IntelliJ IDEA (or any Java IDE)
 
 ## Getting Started
